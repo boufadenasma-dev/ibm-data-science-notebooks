@@ -1,7 +1,7 @@
 # ibm-data-science-notebooks
-Mes notebooks de la formation IBM Data Science sur Coursera
+My notebooks from the IBM Data Science training on Coursera
 
-## 📚 Modules suivis
+## 📚 Modules 
 - What is Data Science?
 - Tools for Data Science
 - Data Science Methodology
@@ -17,12 +17,12 @@ Mes notebooks de la formation IBM Data Science sur Coursera
 - Data Scientist Career Guide and Interview Preparation
 
   ## 📁 Structure
- -`notebooks/` : mes notebooks Jupyter
-- `data/` : jeux de données utilisés
-- `README.md` : ce fichier
+ -`notebooks/` : My Jupyter notebooks 
+- `data/` : datasets used
+- `README.md` : file
   
-## 🚀 Objectif
-Apprendre les bases de la data science et construire un portfolio freelance.
+## 🚀 Objectives
+Learn the basics of data science and build a freelance portfolio.
 
 ## 👩‍💻 Contact
-Asma – aspirante data scientist freelance – boufadenasma@gmail.com
+Asma – aspiring freelance data scientist – boufadenasma@gmail.com
