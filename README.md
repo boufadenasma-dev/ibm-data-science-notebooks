@@ -1,5 +1,5 @@
 # ibm-data-science-notebooks
-My notebooks from the IBM Data Science training on Coursera
+My notebooks from the IBM Data Science Certificate Professional - Coursera
 
 ## 📚 Modules 
 - What is Data Science?
