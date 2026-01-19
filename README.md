@@ -28,5 +28,5 @@ Learn the basics of data science and build a freelance portfolio.
 Asma – aspiring freelance data scientist – boufadenasma@gmail.com
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boufadenasma-dev/ibm-data-science-notebooks/?filepath= blob/main/6.Capstone_labIBM_jupyter_launch_site_location.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boufadenasma-dev/ibm-data-science-notebooks/main?filepath=6.Capstone_labIBM_jupyter_launch_site_location.ipynb)
 
